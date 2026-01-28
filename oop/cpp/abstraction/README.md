@@ -6,7 +6,7 @@
 
 Abstraction in C++ is mainly achieved using:
 1. **Abstract Classes**
-2. **Interfaces (Pure Virtual Functions)**
+2. **Interfaces (Pure Vccirtual Functions)**
 
 ---
 
