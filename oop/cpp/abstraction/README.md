@@ -14,7 +14,7 @@ Abstraction in C++ is mainly achieved using:
 
 **Abstraction** means showing only the **essential details** and hiding the **implementation**. It allows programmers to focus on **what an object does** rather than **how it does it**.
 
-### **Key Benefits of Abstraction**
+### **Key Benefitsss of Abstraction**
 - **Reduces complexity**: Hides unnecessary implementation details.
 - **Increases code reusability**: Encourages the reuse of abstracted logic.
 - **Enhances security**: Protects internal object details from unintended modifications.
